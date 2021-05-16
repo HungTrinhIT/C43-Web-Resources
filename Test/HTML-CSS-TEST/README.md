@@ -2,7 +2,7 @@
 
 ## Tổng quan: bài làm gồm 2 phần
 - **Phần 1:** Trắc nghiệm 10 câu / 10 phút.
-- **Phần 2:** Dàm layouts
+- **Phần 2:** Dàn lại layout như mẫu.
 
 ## Cách nộp bài
 - **Bài 1:** các bạn làm trên trực tiếp trên link mình gửi.
