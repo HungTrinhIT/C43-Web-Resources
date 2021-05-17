@@ -18,7 +18,7 @@ Thì định dạng tên folder sẽ là: Lê_Văn_A_HTML_CSS.rar
 
 - **Bài 2:**
     - Dàn 1 layouts như sau: [layouts](https://preview.uideck.com/items/unfold/#work)
-    - Folder mẫu bao gồm **1 file html**, **1 file css** và **1 folder images** được chuẩn bị sẵn cho các bạn thực hiện **layouts** như trên: [Click here to download template](https://drive.google.com/file/d/1nVMHsTllWo7eyvYQkJkrWn9faTZZhZ7W/view?usp=sharing)
+    - Folder mẫu bao gồm **1 file html**, **1 file css** và **1 folder images** được chuẩn bị sẵn cho các bạn thực hiện **layouts** như trên: [Click here to download template](https://drive.google.com/file/d/1sNLfQ5HDczGhEIB7YWVfvFLvoEogNpFC/view?usp=sharing)
     - Không cần thực hiện các **animation** quá phức tạp như trong **layouts mẫu**. Chỉ cần các bạn dàn đúng layouts về vị trí các **components** như trong mẫu. Còn các hiệu ứng thì chỉ làm 1 số hiệu ứng cơ bản như đã học.
 
 ## Gợi ý:
