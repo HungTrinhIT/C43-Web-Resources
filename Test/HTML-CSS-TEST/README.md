@@ -22,7 +22,7 @@ Thì định dạng tên folder sẽ là: Lê_Văn_A_HTML_CSS.rar
     - Không cần thực hiện các **animation** quá phức tạp như trong **layouts mẫu**. Chỉ cần các bạn dàn đúng layouts về vị trí các **components** như trong mẫu. Còn các hiệu ứng thì chỉ làm 1 số hiệu ứng cơ bản như đã học.
 
 ## Gợi ý:
-- Tổng thể trang web gồm ba chính: do đó chũng ta sẽ tạo biến có tên cụ thể cho ba màu này, để dễ sử dụng lại, trong file css các bạn sẽ khai báo như sau:
+- Tổng thể trang web gồm ba các màu chính sau đây: do đó mình có define sẵn các màu này, để dễ sử dụng lại, trong file css các bạn sẽ khai báo như sau:
 ```js
 *{
     box-sizing:border-box;
