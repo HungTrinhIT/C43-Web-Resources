@@ -47,4 +47,5 @@ body{
 }
 
 ```
+- Đọc kĩ đề, phân tích kỹ layouts, trước khi bắt tay vào code. Chỗ nào khó bí idea => skip làm component khác sau đó quay lại chỗ chưa làm được sau.
 
