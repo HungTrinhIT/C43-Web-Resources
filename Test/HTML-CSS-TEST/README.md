@@ -21,3 +21,25 @@ Thì định dạng tên folder sẽ là: Lê_Văn_A_HTML_CSS.rar
     - Folder mẫu bao gồm **1 file html**, **1 file css** và **1 folder images** được chuẩn bị sẵn cho các bạn thực hiện **layouts** như trên: [Click here to download template](https://drive.google.com/file/d/1mMRIN0YYm9KpceKzopeUkssmkjCGfggM/view?usp=sharing)
     - Không cần thực hiện các **animation** quá phức tạp như trong **layouts mẫu**. Chỉ cần các bạn dàn đúng layouts về vị trí các **components** như trong mẫu. Còn các hiệu ứng thì chỉ làm 1 số hiệu ứng cơ bản như đã học.
 
+## Gợi ý:
+- Tổng thể trang web gồm ba chính: do đó chũng ta sẽ tạo biến có tên cụ thể cho ba màu này, để dễ sử dụng lại, trong file css các bạn sẽ khai báo như sau:
+```js
+*{
+    box-sizing:border-box;
+    padding: 0;
+    margin:0;
+}
+:root{
+    --purple-color: #754ef9;
+    --black-color: #000;
+    --gray-color: #8a8fa3;
+    --white-color: #ffffff;
+}
+
+body{
+    font-size:16px;
+    color: var(--gray-color);
+}
+
+```
+
