@@ -30,10 +30,15 @@ Thì định dạng tên folder sẽ là: Lê_Văn_A_HTML_CSS.rar
     margin:0;
 }
 :root{
+    
     --purple-color: #754ef9;
     --black-color: #000;
     --gray-color: #8a8fa3;
     --white-color: #ffffff;
+    
+    --bg-color-gray: #fbfbfb;
+    --bg-color-white: #ffffff;
+    
 }
 
 body{
